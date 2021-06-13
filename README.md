@@ -43,8 +43,8 @@
 
 <p align="left" >
 <a href="https://github.com/oguzcanuzunoner">
-  &nbsp;&nbsp;&nbsp;<img height="180em" align:"center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzcanuzunoner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-  &nbsp;&nbsp;&nbsp;<a href="https://github.com/oguzcanuzunoner"><img height="180em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzcanuzunoner&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="180em" align:"center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzcanuzunoner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/oguzcanuzunoner"><img height="180em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzcanuzunoner&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
