@@ -49,13 +49,16 @@
 <p align="left" >
 <a href="https://github.com/oguzcanuzunoner">
   &nbsp;&nbsp;&nbsp;<img height="180em" align:"left"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzcanuzunoner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;&nbsp;<img height="180em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzcanuzunoner&layout=compact&langs_count=8&theme=algolia"/>
+  &nbsp;&nbsp;&nbsp;<img height="180em" align:"left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzcanuzunoner&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 👩‍💻 &nbsp;Profile Visit
 <p align="left" >
+
 ![](https://komarev.com/ghpvc/?username=oguzcanuzunoner)
+
 </p>
+
 [instagram]: https://instagram.com/oguzcanuzunoner
 [linkedin]: https://linkedin.com/in/oguzcanuzunone
