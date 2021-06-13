@@ -1,14 +1,11 @@
 ### Hi there, I'm Oğuzcan Uzunöner 👋
 
-
 ## About Me
-
 
 - 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
 - 🔭 I'm currently working to become a Full Stack Developer.
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, PHP Mailer, MySQL, SQL Server, Python, Flask, Tkinter, WordPress, LimeSurvey, Moodle, OpenCart, Bootstrap, React.
 - ⚡ Fun fact: I love to sing and play guitar, drums and harmonica. I love to watch tv-series.
-
 
 ### 📫 Contact with Me
 
@@ -28,8 +25,7 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&logoColor=pink)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=Node.JS)
-  ![Express](
-    https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
@@ -44,16 +40,17 @@
   ![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=Notepad%2B%2B&logoColor=007ACC)
 
 ### ⚙️ &nbsp;GitHub Analytics
+
 <p align="left" >
 <a href="https://github.com/oguzcanuzunoner">
-  &nbsp;&nbsp;&nbsp;<img height="180em" align:"center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzcanuzunoner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzcanuzunoner&layout=compact&langs_count=8&theme=algolia"/>
+  &nbsp;&nbsp;&nbsp;<img height="180em" align:"center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzcanuzunoner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;<img height="180em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzcanuzunoner&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 👩‍💻 &nbsp;Profile Visit
+
 <p align="left" >
 
- ![](https://komarev.com/ghpvc/?username=oguzcanuzunoner)
+![](https://komarev.com/ghpvc/?username=oguzcanuzunoner)
 
 </p>
