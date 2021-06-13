@@ -12,7 +12,10 @@
 
 ### 📫 Contact with Me
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin][<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />][instagram]
+&nbsp;&nbsp;&nbsp; [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oguzcanuzunoner/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/oguzcanuzunoner/)
+
+
 
 <br />
 
@@ -28,11 +31,16 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass&logoColor=pink)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=Node.JS)
+  ![Express](
+    https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
 - ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![CodePen](https://img.shields.io/badge/-CodePen-333333?style=flat&logo=CodePen)
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=643995)
@@ -49,16 +57,13 @@
 <p align="left" >
 <a href="https://github.com/oguzcanuzunoner">
   &nbsp;&nbsp;&nbsp;<img height="180em" align:"left"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzcanuzunoner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;&nbsp;<img height="180em" align:"left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzcanuzunoner&layout=compact&langs_count=8&theme=algolia"/>
+  &nbsp;&nbsp;&nbsp;<img height="180em" align:"center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzcanuzunoner&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 👩‍💻 &nbsp;Profile Visit
 <p align="left" >
 
-![](https://komarev.com/ghpvc/?username=oguzcanuzunoner)
+ ![](https://komarev.com/ghpvc/?username=oguzcanuzunoner)
 
 </p>
-
-[instagram]: https://instagram.com/oguzcanuzunoner
-[linkedin]: https://linkedin.com/in/oguzcanuzunone
