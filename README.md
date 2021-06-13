@@ -14,9 +14,6 @@
 
 &nbsp;&nbsp;&nbsp; [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oguzcanuzunoner/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/oguzcanuzunoner/)
-
-
-
 <br />
 
 ### 🛠 &nbsp; Languages and Tools
@@ -47,10 +44,6 @@
   ![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=Notepad%2B%2B&logoColor=007ACC)
 
  <br/>
-
-<br />
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
