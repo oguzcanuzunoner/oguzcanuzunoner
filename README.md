@@ -26,6 +26,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=Node.JS)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-333333?style=flat&logo=Microsoft-SQL-Server)
