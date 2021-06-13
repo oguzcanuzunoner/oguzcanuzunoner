@@ -43,10 +43,7 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=643995)
   ![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=Notepad%2B%2B&logoColor=007ACC)
 
- <br/>
-
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="left" >
 <a href="https://github.com/oguzcanuzunoner">
   &nbsp;&nbsp;&nbsp;<img height="180em" align:"left"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzcanuzunoner&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
