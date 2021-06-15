@@ -40,6 +40,17 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=643995)
   ![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=Notepad%2B%2B&logoColor=007ACC)
 
+### 👩‍💻 &nbsp;Profile Visit
+
+<p align="left" >
+
+![](https://komarev.com/ghpvc/?username=oguzcanuzunoner)
+
+</p>
+
+<details>
+<summary>More stuff about me</summary>
+
 ### 💻 &nbsp;Coding Stats
 
 <!--START_SECTION:waka-->
@@ -54,10 +65,6 @@
 </a>
 </p>
 
-### 👩‍💻 &nbsp;Profile Visit
+</details>
 
-<p align="left" >
 
-![](https://komarev.com/ghpvc/?username=oguzcanuzunoner)
-
-</p>
