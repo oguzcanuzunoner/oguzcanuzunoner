@@ -40,6 +40,11 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=643995)
   ![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=Notepad%2B%2B&logoColor=007ACC)
 
+### 💻 &nbsp;Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left" >
