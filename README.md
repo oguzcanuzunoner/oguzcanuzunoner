@@ -7,7 +7,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, PHP Mailer, MySQL, SQL Server, Python, Flask, Tkinter, WordPress, LimeSurvey, Moodle, OpenCart, Bootstrap, React.
 - ⚡ Fun fact: I love to sing and play guitar, drums and harmonica. I love to watch tv-series.
 
-<img src="https://github.com/oguzcanuzunoner/oguzcanuzunoner/blob/main/react_animation.gif" alt="react-native" width=100 height=100 align="right">
+<img src="https://github.com/oguzcanuzunoner/oguzcanuzunoner/blob/main/react_animation.gif" alt="react-native" width=150 height=150 align="right">
 
 ### 📫 Contact with Me
 
