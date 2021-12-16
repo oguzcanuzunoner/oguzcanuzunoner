@@ -7,7 +7,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript, PHP, PHP Mailer, MySQL, SQL Server, Python, Flask, Tkinter, WordPress, LimeSurvey, Moodle, OpenCart, Bootstrap, React.
 - ⚡ Fun fact: I love to sing and play guitar, drums and harmonica. I love to watch tv-series.
 
-<img src="https://github.com/oguzcanuzunoner/oguzcanuzunoner/blob/main/react_animation.gif" alt="react-native" width=200 height=200 align="right">
+<img src="https://github.com/oguzcanuzunoner/oguzcanuzunoner/blob/main/react_animation.gif" alt="react-native" width=100 height=100 align="right">
 
 ### 📫 Contact with Me
 
@@ -25,7 +25,7 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  &nbsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
  
