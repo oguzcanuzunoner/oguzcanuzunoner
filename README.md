@@ -11,8 +11,9 @@
 
 ### 📫 Contact with Me
 
-&nbsp;&nbsp;&nbsp; [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oguzcanuzunoner/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/oguzcanuzunoner/)
+
+&nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguzcanuzunoner/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/oguzcanuzunoner/)
 <br />
 
 ### 🛠 &nbsp; Languages and Tools
