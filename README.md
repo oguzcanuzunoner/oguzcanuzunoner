@@ -76,10 +76,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 3 mins    ████████████████████▓░░░░   82.19 % 
-Java         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Groovy       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-XML          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
