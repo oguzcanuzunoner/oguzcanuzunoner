@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
 - 🔭 I'm currently working to become a Full Stack Developer.
-- 💬 Ask me about HTML, CSS, JavaScript, PHP, PHP Mailer, MySQL, SQL Server, Python, Flask, Tkinter, WordPress, LimeSurvey, Moodle, OpenCart, Bootstrap, React.
+- 💬 Ask me about React, React Native, JavaScript, Bootstrap, Styled-Components, NoSQL, HTML, CSS, PHP, PHP Mailer, MySQL, SQL Server, Python, Flask, Tkinter, WordPress, LimeSurvey, Moodle, OpenCart.
 - ⚡ Fun fact: I love to sing and play guitar, drums and harmonica. I love to watch tv-series.
 
 <img src="https://github.com/oguzcanuzunoner/oguzcanuzunoner/blob/main/react_animation.gif" alt="react-native" width=150 height=150 align="right">
